@@ -1,0 +1,189 @@
+.nav-1{
+    background-color: #73e600;
+    height: 10vh;
+    border-top-left-radius: 30px;
+    border-bottom-right-radius: 30px;
+    
+}
+.nav-1-des{
+    width: 300px;
+    margin-top: 20px;
+    margin-left: -10px;
+    color: white;
+}
+.nav-1-icon1{
+    margin: 20px;
+}
+.nav-icon2{
+    margin: 25px;
+}
+.nav1-des2{
+    margin: 20px;
+    margin-left: -10px;
+    color: white;
+}
+.nav1-des3{
+    margin: 20px;
+    margin-left: 60px;
+    color: white;
+    float: right;
+}
+.nav-2{
+    background-color: transparent;
+    height: 20vh;
+}
+.nav-2-text1{
+    color: #73e600;
+    margin: 5px;
+}
+.nav-3-text1{
+    color:blue;
+    margin: 5px;
+}
+.navbar ul{
+    list-style-type: none;
+    
+    padding: 0px;
+    margin: 0px;
+    overflow: hidden;
+    color: #73e600;
+    
+
+}
+.navbar ul{
+    list-style-type: none;
+    
+    padding: 0px;
+    margin: 0px;
+    overflow: hidden;
+    color:white;
+    
+
+}
+.navbar a{
+    color: white;
+    text-decoration: none;
+    padding: 40px;
+    display: block;
+    text-align: center;
+    color: #73e600;
+}
+.navbar a:hover{
+    background-color: blueviolet;
+}
+.navbar li{
+    float: left;
+}
+
+.veg{
+    background-image: url("https://img.freepik.com/premium-vector/abstract-blue-background-with-smooth-lines_230977-3914.jpg");
+    background-size: cover;
+    height: 100vh;
+    width: 100vw;
+    padding: 40px;
+}
+.veg-card{
+    padding: 30px;
+}
+.white-bg{
+    background-color: white;
+    border-radius: 10px;
+    border-color: red;
+
+
+}
+.btn-1{
+    background-color: darkgreen;
+    border-radius: 3px;
+    justify-content: right;
+    margin-left: 70%;
+    border-color: red;
+}
+.veg-fruit-card{
+    width: 100vw;
+    padding: 30px;
+    margin-left: 30px;
+    border-radius: 10px;
+    height: 100vh;
+}
+.photo{
+    height: 50vh;
+    width: 100vw;
+}
+.car3-content h1{
+    padding-top: 50px;
+}
+.car3-content{
+    border: 1px solid rgb(36, 34, 34);
+    width: 250px;
+    height: 300px;
+    background-color: goldenrod;
+    border-radius: 20px;
+    text-align: center;
+  
+}
+
+  
+.car3-content1{
+    align-items: center;
+    background-color: darkgrey;
+    text-align: center;
+    border-radius: 70px;
+     width: 100px;
+     height: 100px;
+    margin-left: 70px;
+    margin-top: 20px;
+
+}
+.car3-content1 i{
+    font-size: 40px;
+    padding-top: 30px;
+    color: white;
+}
+.car3{
+    display: flex;
+    justify-content: space-around;
+}
+.fruits-veg-cards{
+    background-color: #73e600;
+    width: 100vw;
+    height: 20vh;
+}
+.grapes{
+    height: 40vh;
+    width: 25vw;
+    transition: cubic-bezier(0.075, 0.82, 0.165, 1);
+    transform:translateX();
+}
+.grape-card{
+    height: 30vh;
+    width:25vw ;
+    padding-top: 0;
+    
+    transition: 0s;
+    border:1px solid crimson;
+    
+}
+.red-bg{
+    background-color: #73e600;
+    border-radius: 30px;
+    padding-left:8px;
+    width: 150px;
+    border-color: chocolate;
+
+}
+.rate{
+    padding-left: 30px;
+
+}
+.name{
+    text-align: center;
+}
+.grape-card-margin{
+    margin:15px;
+}
+.apple-cont{
+    border: 2px solid red;
+    margin: 10px;
+}
+
